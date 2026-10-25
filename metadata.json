@@ -1,0 +1,6 @@
+{
+  "name": "JEMIS INTERIOR",
+  "description": "Discover furniture and interior inspiration with JEMIS INTERIOR in Jos, Plateau State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
